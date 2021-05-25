@@ -11,7 +11,47 @@
          "groups":{
             "Kiwe":"/proxy/api/imgur/chapter/oQENcxS/"
          },
-         "last_updated":"1616368746"
-      }
+         "last_updated":"1621906490"
+      },
+       "39": {
+      "title": "Inspiration And Sparkle",
+      "volume": "7",
+      "groups": {
+        "Kiwe": "/proxy/api/imgur/chapter/Dfg6VF5/"
+      },
+      "last_updated": "1621906490"
+    },
+    "40": {
+      "title": "It's Fun So Lets Begin",
+      "volume": "7",
+      "groups": {
+        "Kiwe": "/proxy/api/imgur/chapter/ai4Gcgj/"
+      },
+      "last_updated": "1621906490"
+    },
+     "41": {
+      "title": "Autumn Growth",
+      "volume": "7",
+      "groups": {
+        "Kiwe": "/proxy/api/imgur/chapter/gxlW8IO/"
+      },
+      "last_updated": "1621906490"
+    },
+     "42": {
+      "title": "Exciting Winter",
+      "volume": "<7",
+      "groups": {
+        "Kiwe": "/proxy/api/imgur/chapter/h7su2AX/"
+      },
+      "last_updated": "1621906490"
+    },
+     "43": {
+      "title": "See You Tomorrow",
+      "volume": "7",
+      "groups": {
+        "Kiwe": "/proxy/api/imgur/chapter/mV7F8fV/"
+      },
+      "last_updated": "1621906490"
+    },
    }
-}
+  }
